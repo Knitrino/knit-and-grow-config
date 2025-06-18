@@ -1,0 +1,160 @@
+{
+  "configVersion": "1.0.0",
+  "lastUpdated": "2025-06-18T00:51:16.080Z",
+  "playlists": {
+    "rightHanded": {
+      "tutorialPlaylistId": "PLN2pz6FdG2SGoYbDZE3ZrfO0CK3tx2pGL",
+      "faqPlaylistId": "PLN2pz6FdG2SFmcipKxfs6E4HMwKomLvsX",
+      "steps": [
+        {
+          "id": "step1",
+          "title": "Episode 1: Getting Started",
+          "description": "In this lesson, we introduce Knitrino, go over terminology, supplies, and winding your yarn.",
+          "videoId": "fyWPL3jqa1c"
+        },
+        {
+          "id": "step2",
+          "title": "Episode 2: Casting on",
+          "description": "In this lesson, we learn how to get stitches on the needles.",
+          "videoId": "cXKkl6c4DfQ"
+        },
+        {
+          "id": "step3",
+          "title": "Episode 3: The Knit Stitch",
+          "description": "In this lesson we learn the knit stitch.",
+          "videoId": "XCufBki_tSw"
+        },
+        {
+          "id": "step4",
+          "title": "Episode 4: The Purl Stitch",
+          "description": "In this lesson, we learn the purl stitch and talk a lot more about charts.",
+          "videoId": "dw7RMHP_N64"
+        },
+        {
+          "id": "step5",
+          "title": "Episode 5: Ribbing",
+          "description": "In this lesson, we learn more about stockinette and ribbing.",
+          "videoId": "i9que7gAQBQ"
+        },
+        {
+          "id": "step6",
+          "title": "Episode 6: Binding off and gauge",
+          "description": "In this lesson, we learn how to bind off or cast off, plus the importance of gauge.",
+          "videoId": "EFYI-jyfyek"
+        },
+        {
+          "id": "step7",
+          "title": "Episode 7: Knitting the Haiku Hat",
+          "description": "In this lesson, we learn about knitting in the round and get started on the haiku hat.",
+          "videoId": "_l3rDw5J4YM"
+        },
+        {
+          "id": "step8",
+          "title": "Episode 8: Finishing Your Hat",
+          "description": "In this lesson, we learn how to decrease for the crown, how to use double pointed needles, and how to finish our hats!",
+          "videoId": "Thy3h5essNQ"
+        },
+        {
+          "id": "step9",
+          "title": "Appendix: Troubleshooting your knitting",
+          "description": "In this appendix, we show how to fix dropped or accidentally slipped stitches, how to unravel your work to fix a mistake, and how to undo your swatch to use the yarn in your hat.",
+          "videoId": "PxNUPrxPf0k"
+        }
+      ],
+      "faqVideos": [
+        {
+          "id": "faq1",
+          "title": "Fundamentals of Knitting: How to Do the Knit Stitch for Right Handed Beginners",
+          "description": "Learn the fundamentals of knitting: the knit stitch. It's the only stitch you need to call yourself a knitter!\n\nLike every skill, knitting takes time to learn. Be patient with yourself and remember that all new things take practice! If it doesn't work the first time, keep trying. You'll get it.\n\nTo work a knit stitch, poke your working needle (the right needle for right handed knitters) into the stitch knitwise (from left to right, front to back for righties), wrap the yarn around from bottom to top and draw the loop through. Then slide the stitch that you worked off the holding needle (the left needle for righties). And now you're a knitter! \n\n#knitting #knittingforbeginners #knittingtutorial #knittingstitch #knitstitch #knitrino #stitchybee",
+          "videoId": "WdjSZ-2T4n0"
+        },
+        {
+          "id": "faq2",
+          "title": "Learn to Knit the Purl Stitch - Knitting for Right Handed Beginners",
+          "description": "This knitting tutorial shows how to create a purl stitch in slow motion! If you're looking for a step-by-step tutorial for absolute beginners, you've come to the right place. Both continental and english style techniques are shown in this video. \n\nThe purl stitch is one of the foundational knitting stitches, and you might be surprised to learn that the back of a knit stitch is a purl, and the back of a purl stitch is a knit stitch! They go hand and hand and can be used together to create all kinds of different textures and techniques, like garter stitch, ribbing, moss stitch, and so much more! \n\nTo create a purl stitch, bring the yarn between the needles to the front. Insert the working needle into the stitch, staying on the front side of the fabric. Wrap the yarn around the needle from top to bottom, then pull the loop through to the back. As you release the stitch from the holding needle, you'll see the characteristic purl bump. Repeat this process—bring yarn to the front, insert needle, wrap yarn, pull through, and release—to create a row of purl stitches.",
+          "videoId": "g19lQm9RNPw"
+        },
+        {
+          "id": "faq3",
+          "title": "How to Tie a Slip Knot for Total Beginners - Essential Slipknot Knitting Tutorial",
+          "description": "Learn how to make or tie a slip knot, the first and essential step to knitting! In this tutorial, we'll guide you through tying a slip knot with ease, an important technique for any beginner knitter. To create a slip knot, loop the yarn around your fingers, turn the loop to make a cross, fold down, pick up the leg, pull it through the loop, and gently cinch it down. Remember, it shouldn't be too tight, allowing the loop to be free to move on your needle.\n\nWhether you're just starting or need a quick refresher, this video provides a clear and concise demonstration. Mastering the slip knot will make your knitting projects more manageable and enjoyable.\n\nKeywords: slip knot, slipknot knitting, knitting, beginner knitting, how to knit, knitting tutorial, knitting for beginners, learn to knit, slip knot knitting, right handed knitting, knitting techniques, stitch dictionary, easy knitting, step by step knitting, knitting stitches, modern knitting, knitting patterns\n\n#HowtoMakeaSlipKnot #SlipKnot #KnittingTutorial #LearnToKnit #KnittingForBeginners #SlipKnotKnitting #RightHandedKnitting #EasyKnitting #KnittingStitches #ModernKnitting #BeginnerKnitting #KnittingPatterns #KnittingTechniques #YarnLovers #Crafting",
+          "videoId": "Hy1QQ7Xh1Yc"
+        }
+      ]
+    },
+    "leftHanded": {
+      "tutorialPlaylistId": "PLN2pz6FdG2SG18-gwO2xVTYjF_En6u9nj",
+      "faqPlaylistId": "PLN2pz6FdG2SGf9DENOLeyKCfjGO17EjKG",
+      "steps": [
+        {
+          "id": "step1",
+          "title": "Episode 1: Getting Started",
+          "description": "In this lesson, we introduce Knitrino, go over terminology, supplies, and winding your yarn.",
+          "videoId": "fyWPL3jqa1c"
+        },
+        {
+          "id": "step2",
+          "title": "Lefty Learn to Knit - Episode 2: Casting On",
+          "description": "For left-handed knitters: In this episode we learn how to get stitches on the needles.",
+          "videoId": "wn9ulRJMzBw"
+        },
+        {
+          "id": "step3",
+          "title": "Lefty Learn to Knit - Episode 3: The Knit Stitch",
+          "description": "For left handed knitters, in this episode we learn how to do the knit stitch.",
+          "videoId": "-fOIFMMUdDQ"
+        },
+        {
+          "id": "step4",
+          "title": "Lefty Learn to Knit - Episode 4: The Purl Stitch",
+          "description": "For left-handed knitters, in this episode, we learn more about reading charts, symbols, and how to do the purl stitch.",
+          "videoId": "_yiLSElVqPk"
+        },
+        {
+          "id": "step5",
+          "title": "Lefty Learn to Knit - Episode 5: Ribbing",
+          "description": "For left handed knitters, in this episode we combine knit and purls stitches to make 1x1 ribbing (also called k1, p1 rib).",
+          "videoId": "NaKrcbbj-6o"
+        },
+        {
+          "id": "step6",
+          "title": "Lefty Learn to Knit - Episode 6: Binding Off and Measuring Gauge",
+          "description": "For left-handed knitters, in this episode we learn how to finish our work by binding off, how to measure gauge, and why it's important.",
+          "videoId": "APbEZGelWxo"
+        },
+        {
+          "id": "step7",
+          "title": "Lefty Learn to Knit - Episode 7: The Haiku Hat",
+          "description": "For left-handed knitters, in this episode we cast on our hat (!), learn to join in the round, learn about slipped stitches.",
+          "videoId": "o3TFDni-_UI"
+        },
+        {
+          "id": "step8",
+          "title": "Lefty Learn to Knit - Episode 8: Decreases and Finsihing Up Your Hat",
+          "description": "For left-handed knitters, in this episode we learn how to make decreases, how to switch to double pointed needles (DPNs), and how ot weave in our ends.",
+          "videoId": "NnFzpwsSMYQ"
+        },
+        {
+          "id": "step9",
+          "title": "Appendix: Troubleshooting your knitting",
+          "description": "In this appendix, we show how to fix dropped or accidentally slipped stitches, how to unravel your work to fix a mistake, and how to undo your swatch to use the yarn in your hat.",
+          "videoId": "PxNUPrxPf0k"
+        }
+      ],
+      "faqVideos": [
+        {
+          "id": "faq1",
+          "title": "Fundamentals of Knitting: How to Do the Knit Stitch for Left Handed Beginners",
+          "description": "Learn the fundamentals of knitting: the knit stitch. It's the only stitch you need to call yourself a knitter!\n\nLike every skill, knitting takes time to learn. Be patient with yourself and remember that all new things take practice! If it doesn't work the first time, keep trying. You'll get it.\n\nTo work a knit stitch, poke your working needle (the left needle for left handed knitters) into the stitch knitwise (from right to left, front to back for lefties), wrap the yarn around from bottom to top and draw the loop through. Then slide the stitch that you worked off the holding needle (the right needle for lefties). And now you're a knitter! \n\n#knitting #knittingforbeginners #knittingtutorial #knittingstitch #knitstitch #knitrino #stitchybee #mirrorknitting #lefthandedknitting",
+          "videoId": "eV6StYsTNNU"
+        },
+        {
+          "id": "faq2",
+          "title": "Learn to Knit the Purl Stitch - Knitting for Left Handed Beginners",
+          "description": "This knitting tutorial shows how to create a purl stitch in slow motion for lefties (mirror knitting)! If you're looking for a step-by-step tutorial for absolute beginners, you've come to the right place. Both continental and english style techniques are shown in this video. \n\nThe purl stitch is one of the foundational knitting stitches, and you might be surprised to learn that the back of a knit stitch is a purl, and the back of a purl stitch is a knit stitch! They go hand and hand and can be used together to create all kinds of different textures and techniques, like garter stitch, ribbing, moss stitch, and so much more! \n\nTo create a purl stitch, bring the yarn between the needles to the front. Insert the working needle into the stitch, staying on the front side of the fabric. Wrap the yarn around the needle from top to bottom, then pull the loop through to the back. As you release the stitch from the holding needle, you'll see the characteristic purl bump. Repeat this process—bring yarn to the front, insert needle, wrap yarn, pull through, and release—to create a row of purl stitches.",
+          "videoId": "m7xz3rxrUX8"
+        }
+      ]
+    }
+  }
+}
