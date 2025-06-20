@@ -1,64 +1,46 @@
 {
   "configVersion": "1.0.0",
-  "lastUpdated": "2025-06-18T00:51:16.080Z",
+  "lastUpdated": "2025-06-19T23:27:01.044Z",
   "playlists": {
     "rightHanded": {
-      "tutorialPlaylistId": "PLN2pz6FdG2SGoYbDZE3ZrfO0CK3tx2pGL",
+      "tutorialPlaylistId": "PLN2pz6FdG2SEopNcus2l8yMfA53UMB0aH",
       "faqPlaylistId": "PLN2pz6FdG2SFmcipKxfs6E4HMwKomLvsX",
       "steps": [
         {
           "id": "step1",
-          "title": "Episode 1: Getting Started",
-          "description": "In this lesson, we introduce Knitrino, go over terminology, supplies, and winding your yarn.",
-          "videoId": "fyWPL3jqa1c"
+          "title": "Learn To Knit Step 1: How to Cast On for Right Handed Knitters",
+          "description": "The first step to knitting the Dream Cowl is getting the stitches on your needles - we'll start with a slip knot and use the Long Tail Cast On method. \n\nStart by preparing your materials, including circular needles and center-pull yarn. \n1. Make a Slip Knot: draw out several yards/meters of yarn and create a slip knot, placing it on the needle. This is your first cast on stitch.\n2. Cast On: Place the yarn tail over your thumb and the working yarn over your index finger. Secure both strands in your palm. Move the needle under the thumb yarn, over the finger yarn, and pull the yarn through the loop on your thumb, cinching gently on the needle–1 more stitch cast on. \n3. Continue: Repeat this method until all 90 stitches have been cast on.\n\nKeywords: knitting tutorial, longtail cast on, right-handed knitting, beginner knitting techniques, yarn preparation, slip knot, casting on stitches, how to knit for absolute beginners",
+          "videoId": "OKzTJ1Ry3_Q"
         },
         {
           "id": "step2",
-          "title": "Episode 2: Casting on",
-          "description": "In this lesson, we learn how to get stitches on the needles.",
-          "videoId": "cXKkl6c4DfQ"
+          "title": "Learn To Knit Step 2: the Knit Stitch",
+          "description": "Now we're ready to knit: we'll start by joining in the round and knit, then we'll learn the knit stitch!\n\nPlace the end with the working yarn attached next to your right hand. This is working needle. \n1. Ensure No Twists: Lay your needles flat on the table, and remove any twists, making sure all the stitches point in the same direction. \n2. Place Marker: Place a stitch marker on your working needle (right needle.) \n3. Knit: Holding the working needle in your right hand, insert the needle tip into the front leg of the first stitch on your holding needle (left needle) from left to right. Wrap the yarn around the needle, and draw the loop through the stitch, removing the worked stitch from the holding needle.   \n4. Repeat: knit all 90 stitches on the needle until you make your way back to the stitch marker.\n\nThen you'll slip the marker (just transfer it from your holding needle to your working needle) and continue to knit about 42 more rounds, or until your cowl measures around 9\"/22.5 cm.",
+          "videoId": "AAYoDpVN75I"
         },
         {
           "id": "step3",
-          "title": "Episode 3: The Knit Stitch",
-          "description": "In this lesson we learn the knit stitch.",
-          "videoId": "XCufBki_tSw"
+          "title": "Learn To Knit Step 3: How to Decrease with the Knit 2 Together",
+          "description": "To make the Dream Cowl slightly narrower at the top, we'll need to use the Knit 2 Together or k2tog to decrease. \n\nAt this point, you should have about 43 rounds, and the cowl should be about 9\"/22.5 cm tall. If it's a little shorter or a little longer, that's ok! We're going to make decreases evenly all the way around by knitting the 9th and 10th stitches together.\n1. Set Up: Knit 8 stitches normally.\n2. Decrease: Now Insert the needle into both the 9th and 10th stitches, and knit them together as if one stitch. \n3. Repeat: Continue this process around the piece, knit 8, then knit 2 together, or in knitting shorthand [k8, k2tog] repeat to end. If your stitch count is off, don't worry! If you don't have enough stitches at the end, skip the last decrease; if there are too many, just k2tog at the end. \n\nNow knit 4 more rounds.",
+          "videoId": "7uAIiwJjM78"
         },
         {
           "id": "step4",
-          "title": "Episode 4: The Purl Stitch",
-          "description": "In this lesson, we learn the purl stitch and talk a lot more about charts.",
-          "videoId": "dw7RMHP_N64"
+          "title": "Learn To Knit Step 4: How to Purl Stitch",
+          "description": "There are 2 foundational stitches in knitting - we've learned the knit stitch and now we need to learn the purl stitch! \n\nHere's how:\n1. Position the Yarn: Bring the yarn to the front between the needles without going over the needle.\n2. Purl: Insert the needle into the front of the stitch from right  to left (purlwise), wrap the yarn around the needle and pull the stitch through to the back. \n3. Repeat: Continue to the end of the round. \n\nNow work 4 more rounds, alternating between knit and purl rounds: Knit 1 round, Purl 1 round, Knit 1 round, Purl 1 round. This is called Garter Stitch.",
+          "videoId": "XrPOW280EmA"
         },
         {
           "id": "step5",
-          "title": "Episode 5: Ribbing",
-          "description": "In this lesson, we learn more about stockinette and ribbing.",
-          "videoId": "i9que7gAQBQ"
+          "title": "Learn To Knit Step 5: How to Bind Off (or Cast Off)",
+          "description": "Now we need to work our stitches off the needles, securing them so they can't come undone. \n \nAfter working 4 rounds of garter stitch (alternating knit rounds and purl rounds and ending with a purl round), return your yarn to the back for the bind off and remove the stitch marker.  \n1. Set Up: Binding off involves 2 stitches, so you'll always need to have to 2 stitches on your working needle to bind off. Knit 2 stitches, keeping the stitches loose.\n2. Bind Off: Using your holding needle (left needle), lift up the first stitch you knit and pass it over the second stitch and off the working needle. One stitch bound off! \n3. Repeat: K1 so you have 2 stitches on your working needle, then bind off by passing the first stitch over the second one. Keep your stitches loose, repeat these steps until you reach the last stitch.\n4. Last Stitch: Cut your yarn, remove the working needle, and draw the yarn tail through the last stitch to secure the bind off.\n\nWoohoo! That's it! Now just a few finishing steps to make your knitting even better.",
+          "videoId": "PRD_qMPGFYo"
         },
         {
           "id": "step6",
-          "title": "Episode 6: Binding off and gauge",
-          "description": "In this lesson, we learn how to bind off or cast off, plus the importance of gauge.",
-          "videoId": "EFYI-jyfyek"
-        },
-        {
-          "id": "step7",
-          "title": "Episode 7: Knitting the Haiku Hat",
-          "description": "In this lesson, we learn about knitting in the round and get started on the haiku hat.",
-          "videoId": "_l3rDw5J4YM"
-        },
-        {
-          "id": "step8",
-          "title": "Episode 8: Finishing Your Hat",
-          "description": "In this lesson, we learn how to decrease for the crown, how to use double pointed needles, and how to finish our hats!",
-          "videoId": "Thy3h5essNQ"
-        },
-        {
-          "id": "step9",
-          "title": "Appendix: Troubleshooting your knitting",
-          "description": "In this appendix, we show how to fix dropped or accidentally slipped stitches, how to unravel your work to fix a mistake, and how to undo your swatch to use the yarn in your hat.",
-          "videoId": "PxNUPrxPf0k"
+          "title": "Learn To Knit Step 6: Finishing by Weaving in the Ends and Blocking",
+          "description": "Now we just need to weave in the ends and give our knitting a good bath (called blocking) to relax the fabric. \n\n1. Weave In Ends: Thread a tapestry needle and weave in all the loose ends by drawing the needle through a few stitches on the inside, changing direction a few times. Cut the tail short.\n2. Block: Submerge your work in cool water (no soap needed), and lay flat to dry.\n3. Wear & Share: Wear your cowl out on the town and tell everyone you made it! You should be really proud.",
+          "videoId": "RVMz83UeKYY"
         }
       ],
       "faqVideos": [
@@ -83,62 +65,32 @@
       ]
     },
     "leftHanded": {
-      "tutorialPlaylistId": "PLN2pz6FdG2SG18-gwO2xVTYjF_En6u9nj",
+      "tutorialPlaylistId": "PLN2pz6FdG2SEg5EflrkzoelsC-AVQS7YP",
       "faqPlaylistId": "PLN2pz6FdG2SGf9DENOLeyKCfjGO17EjKG",
       "steps": [
         {
           "id": "step1",
-          "title": "Episode 1: Getting Started",
-          "description": "In this lesson, we introduce Knitrino, go over terminology, supplies, and winding your yarn.",
-          "videoId": "fyWPL3jqa1c"
+          "title": "Learn To Knit 4 Purl LH",
+          "description": "There are 2 foundational stitches in knitting - we've learned the knit stitch and now we'll learn the purl stitch! \n\nHere's how:\n1. Position the Yarn: Bring the yarn to the front between the needles without going over the needle.\n2. Purl: Insert the needle into the front of the stitch from left to right. (purlwise), wrap the yarn around the needle and pull the stitch through to the back. \n3. Repeat: Continue to the end of the round. \n\nNow work 4 more rounds, alternating between knit and purl rounds: Knit 1 round, Purl 1 round, Knit 1 round, Purl 1 round. This is called Garter Stitch.",
+          "videoId": "QB4KEEbs_OY"
         },
         {
           "id": "step2",
-          "title": "Lefty Learn to Knit - Episode 2: Casting On",
-          "description": "For left-handed knitters: In this episode we learn how to get stitches on the needles.",
-          "videoId": "wn9ulRJMzBw"
+          "title": "Learn To Knit 3 Decreases LH",
+          "description": "To make the Dream Cowl slightly narrower at the top, we'll need to use the Knit 2 Together or k2tog to decrease. \n\nAt this point, you should have about 43 rounds, and the cowl should be about 9\"/22.5 cm tall. If it's a little shorter or a little longer, that's ok! We're going to make decreases evenly all the way around by knitting the 9th and 10th stitches together.\n1. Set Up: Knit 8 stitches normally.\n2. Decrease: Now Insert the needle into both the 9th and 10th stitches, and knit them together as if one stitch. \n3. Repeat: Continue this process around the piece, knit 8, then knit 2 together, or in knitting shorthand [k8, k2tog] repeat to end. If your stitch count is off, don't worry! If you don't have enough stitches at the end, skip the last decrease; if there are too many, just k2tog at the end. \n\nNow knit 4 more rounds.",
+          "videoId": "xCsa1SUAp4w"
         },
         {
           "id": "step3",
-          "title": "Lefty Learn to Knit - Episode 3: The Knit Stitch",
-          "description": "For left handed knitters, in this episode we learn how to do the knit stitch.",
-          "videoId": "-fOIFMMUdDQ"
+          "title": "Learn To Knit 5 Bind Off LH",
+          "description": "Now we need to work our stitches off the needles, securing them so they can't come undone. \n \nAfter working 4 rounds of garter stitch (alternating knit rounds and purl rounds and ending with a purl round), return your yarn to the back for the bind off and remove the stitch marker.  \n1. Set Up: Binding off involves 2 stitches, so you'll always need to have to 2 stitches on your working needle to bind off. Knit 2 stitches, keeping the stitches loose.\n2. Bind Off: Using your holding needle (right needle), lift up the first stitch you knit and pass it over the second stitch and off the working needle. One stitch bound off! \n3. Repeat: K1 so you have 2 stitches on your working needle, then bind off by passing the first stitch over the second one. Keep your stitches loose, repeat these steps until you reach the last stitch.\n4. Last Stitch: Cut your yarn, remove the working needle, and draw the yarn tail through the last stitch to secure the bind off.\n\nWoohoo! That's it! Now just a few finishing steps to make your knitting even better.",
+          "videoId": "1YLbUiODXy4"
         },
         {
           "id": "step4",
-          "title": "Lefty Learn to Knit - Episode 4: The Purl Stitch",
-          "description": "For left-handed knitters, in this episode, we learn more about reading charts, symbols, and how to do the purl stitch.",
-          "videoId": "_yiLSElVqPk"
-        },
-        {
-          "id": "step5",
-          "title": "Lefty Learn to Knit - Episode 5: Ribbing",
-          "description": "For left handed knitters, in this episode we combine knit and purls stitches to make 1x1 ribbing (also called k1, p1 rib).",
-          "videoId": "NaKrcbbj-6o"
-        },
-        {
-          "id": "step6",
-          "title": "Lefty Learn to Knit - Episode 6: Binding Off and Measuring Gauge",
-          "description": "For left-handed knitters, in this episode we learn how to finish our work by binding off, how to measure gauge, and why it's important.",
-          "videoId": "APbEZGelWxo"
-        },
-        {
-          "id": "step7",
-          "title": "Lefty Learn to Knit - Episode 7: The Haiku Hat",
-          "description": "For left-handed knitters, in this episode we cast on our hat (!), learn to join in the round, learn about slipped stitches.",
-          "videoId": "o3TFDni-_UI"
-        },
-        {
-          "id": "step8",
-          "title": "Lefty Learn to Knit - Episode 8: Decreases and Finsihing Up Your Hat",
-          "description": "For left-handed knitters, in this episode we learn how to make decreases, how to switch to double pointed needles (DPNs), and how ot weave in our ends.",
-          "videoId": "NnFzpwsSMYQ"
-        },
-        {
-          "id": "step9",
-          "title": "Appendix: Troubleshooting your knitting",
-          "description": "In this appendix, we show how to fix dropped or accidentally slipped stitches, how to unravel your work to fix a mistake, and how to undo your swatch to use the yarn in your hat.",
-          "videoId": "PxNUPrxPf0k"
+          "title": "Learn To Knit 6 Finishing LH",
+          "description": "Now we just need to weave in the ends and give our knitting a good bath (called blocking) to relax the fabric. \n\n1. Weave In Ends: Thread a tapestry needle and weave in all the loose ends by drawing the needle through a few stitches on the inside, changing direction a few times. Cut the tail short.\n2. Block: Submerge your work in cool water (no soap needed), and lay flat to dry.\n3. Wear & Share: Wear your cowl out on the town and tell everyone you made it! You should be really proud.",
+          "videoId": "HAi-hPoYQrs"
         }
       ],
       "faqVideos": [
