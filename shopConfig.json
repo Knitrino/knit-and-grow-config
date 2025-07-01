@@ -1,0 +1,14 @@
+{
+  "configVersion": "1.0.0",
+  "lastUpdated": "2025-06-29T10:00:00.000Z",
+  "shops": {
+    "yarnshop1": {
+      "name": "The Bloomin' Spindle",
+      "kitUrl": "https://www.thebloominspindle.com/product-page/malabrigo-rios"
+    },
+    "yarnshop2": {
+      "name": "Knitrino Yarn Shop",
+      "kitUrl": "https://knitrino.com/products/tattoos"
+    }
+  }
+}
