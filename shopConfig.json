@@ -2,11 +2,15 @@
   "configVersion": "1.0.0",
   "lastUpdated": "2025-06-29T10:00:00.000Z",
   "shops": {
-    "yarnshop1": {
+    "test1": {
+      "name": "Test Shop 1",
+      "kitUrl": "https://queencityyarn.com/collections/all-yarn/products/key-lime"
+    },
+    "bloomin-spindle": {
       "name": "The Bloomin' Spindle",
       "kitUrl": "https://www.thebloominspindle.com/product-page/malabrigo-rios"
     },
-    "yarnshop2": {
+    "knitrino-yarn-shop": {
       "name": "Knitrino Yarn Shop",
       "kitUrl": "https://knitrino.com/products/tattoos"
     }
